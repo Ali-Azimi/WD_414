@@ -1,0 +1,9 @@
+
+
+
+
+
+- git -- version
+- git init
+- git add [filename1 filename2]
+- git commit -m 'commit message'
