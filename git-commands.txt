@@ -7,3 +7,4 @@
 - git init
 - git add [filename1 filename2]
 - git commit -m 'commit message'
+- git reset [filename]
