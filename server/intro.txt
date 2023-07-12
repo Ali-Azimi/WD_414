@@ -1,0 +1,38 @@
+
+
+
+Server
+    web server
+        OS
+            windows
+                IIS
+
+
+
+
+            Linux
+                Apache, Ngninx, Litespeed , ...
+
+
+
+
+            Hosting Provivider
+
+
+                Dedicate
+                virtual private server (VPS)
+                shared host
+
+
+                cpanel
+                direcadmin
+                plesk
+
+
+
+
+                IP
+
+                Domain
+                    https://www.nic.ir/
+                    DNS
