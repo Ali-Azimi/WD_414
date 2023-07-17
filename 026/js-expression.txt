@@ -1,0 +1,12 @@
+
+
+ERROS
+    syntax error
+    type error
+    refrence eror
+
+EPRESSIONS
+    - alert()
+    - console.log()
+    - confirm()
+    - prompt()
